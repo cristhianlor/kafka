@@ -2,4 +2,6 @@ Capítulo 4
 
 - comando docker container ls: Lista os containers que estão sendo executados;
 - comando docker container ls -a: Lista os containers que já rodaram;
-- comando docker images: Lista as imagens já baixadas.
+- comando docker images: Lista as imagens já baixadas;
+- comando docker docker-compose up: Inicia os serviços Docker;
+- comando docker docker-compose down: Encerra os serviços Docker.
